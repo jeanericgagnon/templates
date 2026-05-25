@@ -1,0 +1,258 @@
+{
+  "generatedAt": "2026-05-24T23:25:55.194Z",
+  "source": "src/templates/registry.ts",
+  "fallback": "/template-previews/_fallback.svg",
+  "count": 50,
+  "previews": [
+    {
+      "id": "rustic-barn-romance",
+      "src": "/template-previews/rustic-barn-romance.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "vintage-boho-retro",
+      "src": "/template-previews/vintage-boho-retro.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "midcentury-palm-springs",
+      "src": "/template-previews/midcentury-palm-springs.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "art-deco-glamour",
+      "src": "/template-previews/art-deco-glamour.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "gothic-romance-dark",
+      "src": "/template-previews/gothic-romance-dark.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "tropical-beach-paradise",
+      "src": "/template-previews/tropical-beach-paradise.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "mountain-adventure-alpine",
+      "src": "/template-previews/mountain-adventure-alpine.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "winery-estate-vineyard",
+      "src": "/template-previews/winery-estate-vineyard.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "industrial-loft-concrete",
+      "src": "/template-previews/industrial-loft-concrete.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "fairytale-castle-royal",
+      "src": "/template-previews/fairytale-castle-royal.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "minimalist-ecogreen-greenhouse",
+      "src": "/template-previews/minimalist-ecogreen-greenhouse.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "city-chic-rooftop",
+      "src": "/template-previews/city-chic-rooftop.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "mediterranean-estate-tuscan",
+      "src": "/template-previews/mediterranean-estate-tuscan.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "nautical-club-sailor",
+      "src": "/template-previews/nautical-club-sailor.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "celestial-stars-galaxy",
+      "src": "/template-previews/celestial-stars-galaxy.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "whimsical-garden-secret",
+      "src": "/template-previews/whimsical-garden-secret.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "desert-oasis-saguaro",
+      "src": "/template-previews/desert-oasis-saguaro.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "winter-wonderland-frozen",
+      "src": "/template-previews/winter-wonderland-frozen.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "retro-arcade-neon",
+      "src": "/template-previews/retro-arcade-neon.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "bohemian-meadow-prairie",
+      "src": "/template-previews/bohemian-meadow-prairie.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "castle-ruins-celtic",
+      "src": "/template-previews/castle-ruins-celtic.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "grand-ballroom-opulence",
+      "src": "/template-previews/grand-ballroom-opulence.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "moroccan-riad-marrakech",
+      "src": "/template-previews/moroccan-riad-marrakech.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "enchanted-forest-mossy",
+      "src": "/template-previews/enchanted-forest-mossy.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "lakeside-cabin-campfire",
+      "src": "/template-previews/lakeside-cabin-campfire.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "minimalist-museum-whitebox",
+      "src": "/template-previews/minimalist-museum-whitebox.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "autumn-harvest-amber",
+      "src": "/template-previews/autumn-harvest-amber.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "vegas-chapel-elvis",
+      "src": "/template-previews/vegas-chapel-elvis.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "seaside-cliffs-wildcoast",
+      "src": "/template-previews/seaside-cliffs-wildcoast.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "greenhouse-botanic-palm",
+      "src": "/template-previews/greenhouse-botanic-palm.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "vintage-library-antique",
+      "src": "/template-previews/vintage-library-antique.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "southern-belle-savannah",
+      "src": "/template-previews/southern-belle-savannah.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "scandinavian-hygge-cozy",
+      "src": "/template-previews/scandinavian-hygge-cozy.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "yacht-deck-horizon",
+      "src": "/template-previews/yacht-deck-horizon.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "sakura-blossom-zen",
+      "src": "/template-previews/sakura-blossom-zen.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "chateau-french-lavender",
+      "src": "/template-previews/chateau-french-lavender.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "hightech-cyber-neoneon",
+      "src": "/template-previews/hightech-cyber-neoneon.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "folk-art-slavic",
+      "src": "/template-previews/folk-art-slavic.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "island-hammock-tiki",
+      "src": "/template-previews/island-hammock-tiki.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "redwood-cathedral-sequoia",
+      "src": "/template-previews/redwood-cathedral-sequoia.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "newyork-jazz-lounge",
+      "src": "/template-previews/newyork-jazz-lounge.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "english-tea-garden",
+      "src": "/template-previews/english-tea-garden.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "greek-cyclades-whitedome",
+      "src": "/template-previews/greek-cyclades-whitedome.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "spanish-hacienda-terracotta",
+      "src": "/template-previews/spanish-hacienda-terracotta.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "nordic-fiord-glacier",
+      "src": "/template-previews/nordic-fiord-glacier.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "ski-chalet-powder",
+      "src": "/template-previews/ski-chalet-powder.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "tango-club-crimson",
+      "src": "/template-previews/tango-club-crimson.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "steampunk-airship-brass",
+      "src": "/template-previews/steampunk-airship-brass.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "disco-fever-studio54",
+      "src": "/template-previews/disco-fever-studio54.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    },
+    {
+      "id": "glamping-luxury-stargazer",
+      "src": "/template-previews/glamping-luxury-stargazer.webp",
+      "fallbackSrc": "/template-previews/_fallback.svg"
+    }
+  ]
+}
